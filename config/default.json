@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://Ramya:test123@cluster0-drf2l.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret":"sl_myJwtSecret1"
+}
